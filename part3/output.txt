@@ -1,0 +1,195 @@
+
+ Query-> test
+ 
+ Result:: 
+ Invalid query! Support Query types: AND <query_words>, AND <query_words> AND NOT <query_words>, OR <query_words>
+ 
+ 
+ Query-> HI
+ 
+ Result:: 
+ Invalid query! Support Query types: AND <query_words>, AND <query_words> AND NOT <query_words>, OR <query_words>
+ 
+ 
+ Query-> AND thriller
+ 
+ Result:: 
+ 
+ 
+Filename 	  title  	  reviewer 	  snippet  	  rate0011.html	Bedroom Window, The (1987)	Mark R. Leeper	Capsule review: In the best film thriller I have seen in a while, Steve Guttenberg pretends to have witnessed a crime his paramour actually saw. Before long, he is swept into an ever-worsening vortex of trouble and danger. I recently gave a fairly negative review to an attempted nightmarish thriller, HITCHER.	P
+ 
+0002.html	Hitcher, The (1986)	Mark R. Leeper	Capsule review: Boring actioner about a psychotic hitchhiker whom the scriptwriter makes unkillable. Contrived, unbelievable, and ultimately dull thriller is one more film to waste Rutger Hauer. Capsule review: Boring actioner about a psychotic hitchhiker whom the scriptwriter makes unkillable. Contrived, unbelievable, and ultimately dull thriller is one more film Hauer.	N
+ 
+0009.html	Lethal Weapon (1987)	Steve Fritzinger	LETHAL WEAPON is a light-weight action thriller that quickly degenerates to an extremely stupid movie. While a detective whose name I don't remember is investigating the murder of a friend's daughter, he and his new partner, Riggs, a suicidal burned-out ex-Vietnam sniper, stumble onto a heroin ring. This movie is so loaded with cliches, ex-CIA men turned to crime, a tough looking guy holding his arm in a flame to prove his loyalty to Fearless Leader, kidnapped daughters, and so on, that there is no room left for any genuine suspense.	N
+ 
+0010.html	Lethal Weapon (1987)	James Kawashima	This is a police thriller in the tradition of 48 HOURS and THE FRENCH CONNECTION. It's taut, well-executed, and not entirely predictable. It comes to us from Richard Donner, of SUPERMAN fame, who is noted for his interest in characterization and making the characters seem real and believable to the audience despite their often superhuman abilities.	N
+ 
+0101.html	Innerspace (1987)	Steve Fritzinger	INNERSPACE retells the FANTASTIC VOYAGE story, this time going for, and getting, laughs. Dennis Quaid plays Tuck Pendelton, a washed-up fighter pilot with an ego the size of a truck. He is to man the first miniaturized exploration of a living animal. When the experiment is interrupted by industrial spies, Pendelton is accidentally injected into the rear end of Jack Putter, a Safeway clerk played by Martin Short.	N
+ 
+0018.html	Raising Arizona (1987)	Peter Reiher	I was a big fan of Joel and Ethan Coen's first film, "Blood Simple." I'm not sure if it's accurate to say that their new film, "Raising Arizona," is precisely a disappointment, but it certainly isn't at all what I expected, and I didn't really like it. "Raising Arizona" is such a peculiar movie that I find it difficult to analyze my own feelings about it.	NA
+ 
+
+ Query-> AND Jeff Goldblum
+ 
+ Result:: 
+ 
+ 
+Filename 	  title  	  reviewer 	  snippet  	  rate0003.html	Beyond Therapy (1987)	Steve Fritzinger	Set in the offices of two psychoanalysts, and in a very bad French restaurant, BEYOND THERAPY is a love story about two very confused people. Bruce (Jeff Goldblum) and Prudence (Julie Haggarty) meet through one of many personal ads Bruce has placed. They have a disastrous lunch, and leave expecting never to see one an other again.	P
+ 
+
+ Query-> AND beyond therapy love story
+ 
+ Result:: 
+ 
+ 
+Filename 	  title  	  reviewer 	  snippet  	  rate0003.html	Beyond Therapy (1987)	Steve Fritzinger	Set in the offices of two psychoanalysts, and in a very bad French restaurant, BEYOND THERAPY is a love story about two very confused people. Bruce (Jeff Goldblum) and Prudence (Julie Haggarty) meet through one of many personal ads Bruce has placed. They have a disastrous lunch, and leave expecting never to see one an other again.	P
+ 
+
+ Query-> AND mystery AND NOT horror
+ 
+ Result:: 
+ 
+ 
+Filename 	  title  	  reviewer 	  snippet  	  rate0005.html	Angel Heart (1987)	Mark R. Leeper	Harry Angel (played by Mickey Rourke) is a hard-boiled private eye in the Philip Marlowe tradition. He is a little crude, a little rude, and occasionally a little bit dense. His client is Louis Cyphre (played by Robert DeNiro), a recluse with a silver cane, pointed fingernails, and, like a cipher, is something of a mystery to be solved.	P
+ 
+0006.html	Radio Days (1987)	Jeff Meyer	I've been a little lax in getting out movie reviews -- imagine that this is the time to get down to it.... It's been a Woody Allen kinda week. Went and saw RADIO DAYS on Sunday, and then HANNAH AND HER SISTERS (for the second time). I thought HANNAH was probably the best picture I saw last year, and my favorite Allen film (which is taking in a lot of territory).	P
+ 
+0027.html	Hoosiers (1986)	Jeff Meyer	HOOSIERS is the first sports movie since THE NATURAL that I've liked, and maybe that's not surprising. After ROCKY came out, there were about fifty billion "sports underdog" films out, most of them pretty poor: track & field, gymnastics, kung fu, even bowling. But I've always found both basketball and baseball to be the two "romantic" American sports--the two sports where a group of people work together as a unit to accomplish a goal, where the disparate personalities are fused into a team.	P
+ 
+0081.html	Ping Pong (1986)	Jeff Meyer	Seen at the Seattle Film Festival: PING PONG (Great Britain, 1986) Director: Po Chih Leong Screenwriter: Jerry Liu Cast: Lucy Sheen, David Yip, Robert Lee, Lam Fund, Victor Kan I'll be darned.... Another 'A' film, to take its place alongside AMAZING GRACE AND CHUCK, MY LIFE AS A DOG, and WEAPONS OF THE SPIRIT.	P
+ 
+0088.html	Trancers (1985)	Jeff Meyer	TRANCERS (USA, 1982) Director: Charles Band Screenwriters: Danny Bilson, Paul de Meo Cast: Tim Thomerson, Helen Hunt, Michael Stefani, Art La Fleur This film is probably familiar to those of you who have righteous cable service, but to those of us who don't, it's a mystery. It was made before BLADERUNNER or THE TERMINATOR, but it has elements of both.	N
+ 
+
+ Query-> AND action war
+ 
+ Result:: 
+ 
+ 
+Filename 	  title  	  reviewer 	  snippet  	  rate0031.html	Stunt Man, The (1980)	Neil Pollner	I have been enjoying reading about the various movies that people have been posting to this discussion of "great unknown movies." It must be obvious by now that one man's great unknown is another mans "sure everyone knows that." Be that as it may, here are my favorite "great unknown movies."	P
+ 
+0070.html	Untouchables, The (1987)	Jeff Meyer	It strikes me as appropriate that THE UNTOUCHABLES comes out approximately ten years after STAR WARS opened, because this film belongs to a tradition that began with George Lucas's classic space opera, the high-charged "Summer Spectacular" (nit-pickers could argue that Spielberg's JAWS began it all, but there was too many lackluster summer seasons between JAWS and the next blockbuster hit, STAR WARS, for me to set the origin at that point).	P
+ 
+0071.html	Predator (1987)	Mark R. Leeper	Capsule review: Arnold Schwarzenegger meets an alien with a cloaking device while on a commando mission in Central America. Action films are pretty common, but the concept of the cloaking device coupled with decent special effects are a boon. When I was growing up and into comics, one kind of comics.	P
+ 
+0077.html	Full Metal Jacket (1987)	Mark R. Leeper	Well, the Vietnam War film seems to be with us at last. While the war went on and for a good while afterward it seemed a taboo subject. People, and in particular film backers, did not want to make films about so downbeat a subject. With the passing of time some of the wounds have healed and we have some gung-ho Vietnam films.	P
+ 
+0092.html	Ceddo (1978)	Mark R. Leeper	Capsule review: Micro-epic from Senegal. The film is weak on style, acting, and pacing, but has a really good story. Never released in Senegal, nominally over a disagreement about the spelling of the title, but more likely for anti-Islamic sentiments. Imagine, if you will, a story written for Akira Kurosawa. castles.	P
+ 
+0106.html	RoboCop (1987)	Steve Fritzinger	The Terminator is back, and this time he's a good guy. In this future the police force is run as a for-profit division of Security Concepts Inc., and an up-and-coming young executive thinks he can eliminate crime and get himself a vice-presidency with his Robocop project. Peter Weller is Alex Murphy, a Detroit cop killed in the line of duty, who has been "recycled" by SCI's labs.	P
+ 
+0010.html	Lethal Weapon (1987)	James Kawashima	This is a police thriller in the tradition of 48 HOURS and THE FRENCH CONNECTION. It's taut, well-executed, and not entirely predictable. It comes to us from Richard Donner, of SUPERMAN fame, who is noted for his interest in characterization and making the characters seem real and believable to the audience despite their often superhuman abilities.	N
+ 
+0060.html	Star Wars (1977)	Mark R. Leeper	This year marks the tenth anniversary of George Lucas's STAR WARS. I think it is fairly safe to say that for the fantasy film genre and for the film industry as a whole, the decade has been very different than might have been expected when Fox was telling theaters that if they wanted to show THE OTHER SIDE OF MIDNIGHT they would also have to book this science fiction film, STAR WARS.	N
+ 
+0078.html	Full Metal Jacket (1987)	Craig Good	Stanly Kubrick hasn't made a movie since THE SHINING, making FULL METAL JACKET one of the most anticipated films of the year. It would be a mistake to call it a "me too" follow-up to PLATOON, but comparisons between the two films are going to be unavoidable. What they share in common, along with APOCALYPSE NOW, is the very real sensation that you have just lived through something.	N
+ 
+0080.html	Weapons of the Spirit (1990)	Jeff Meyer	This is not a particularly good world, or a good country, or a good era, for idealists to live in. Cynicism is easily promoted in almost every moral and ethical area involved in our lives: scandals in religion, conflicts of interests in politics, general apathy in dealing with what once were national ideals.	N
+ 
+0108.html	RoboCop (1987)	Craig Good	Yo! What a summer we're having! If you can't find a movie to jazz you this year then you were weaned on a pickle. And just when I though 1987 had peaked, enter ROBOCOP. Remember how STAR WARS combined a lot of things you had seen before into something you'd never seen before? This is like that in several ways.	N
+ 
+0113.html	RoboCop (1987)	Dale L. Skran, Jr.	Let us cross pens. Mark and I have a number of long-running debates, including one on the value of movies like DREAMSCAPE, TERMINATOR, and ROBOCOP, and another on the adaptability of super-hero comics to film. If I may be somewhat cavalier, Mark tends to feel these films are unexceptional, while I feel they serve the special purpose of bringing standard SF ideas to a movie audience generally unfamiliar with them.	N
+ 
+
+ Query-> OR mystery thriller action
+ 
+ Result:: 
+ 
+ 
+Filename 	  title  	  reviewer 	  snippet  	  rate0005.html	Angel Heart (1987)	Mark R. Leeper	Harry Angel (played by Mickey Rourke) is a hard-boiled private eye in the Philip Marlowe tradition. He is a little crude, a little rude, and occasionally a little bit dense. His client is Louis Cyphre (played by Robert DeNiro), a recluse with a silver cane, pointed fingernails, and, like a cipher, is something of a mystery to be solved.	P
+ 
+0006.html	Radio Days (1987)	Jeff Meyer	I've been a little lax in getting out movie reviews -- imagine that this is the time to get down to it.... It's been a Woody Allen kinda week. Went and saw RADIO DAYS on Sunday, and then HANNAH AND HER SISTERS (for the second time). I thought HANNAH was probably the best picture I saw last year, and my favorite Allen film (which is taking in a lot of territory).	P
+ 
+0011.html	Bedroom Window, The (1987)	Mark R. Leeper	Capsule review: In the best film thriller I have seen in a while, Steve Guttenberg pretends to have witnessed a crime his paramour actually saw. Before long, he is swept into an ever-worsening vortex of trouble and danger. I recently gave a fairly negative review to an attempted nightmarish thriller, HITCHER.	P
+ 
+0017.html	Evil Dead II (1987)	Mark R. Leeper	Capsule review: There's more budget than logic to this stringing together of off-beat and semi-humorous horror scenes. Creative visual concepts abound and the pace is frenetic and that makes up for a multitude of sins. I guess in some sense THE EVIL DEAD II is the ultimate horror film...sort of...I guess.	P
+ 
+0022.html	Hollywood Shuffle (1987)	Steve Fritzinger	With HOLLYWOOD SHUFFLE, first time writer/director Robert Townsend creates a very entertaining film. This good-natured parody of movie-making gets most of its laughs from gentle but well-aimed shots at the stereotypes connected to black actors and white film makers. Along the way HOLLYWOOD SHUFFLE takes time out to lampoon hard-boiled detectives, Eddie Murphy, TV movie critics and the rewards of stardom.	P
+ 
+0027.html	Hoosiers (1986)	Jeff Meyer	HOOSIERS is the first sports movie since THE NATURAL that I've liked, and maybe that's not surprising. After ROCKY came out, there were about fifty billion "sports underdog" films out, most of them pretty poor: track & field, gymnastics, kung fu, even bowling. But I've always found both basketball and baseball to be the two "romantic" American sports--the two sports where a group of people work together as a unit to accomplish a goal, where the disparate personalities are fused into a team.	P
+ 
+0031.html	Stunt Man, The (1980)	Neil Pollner	I have been enjoying reading about the various movies that people have been posting to this discussion of "great unknown movies." It must be obvious by now that one man's great unknown is another mans "sure everyone knows that." Be that as it may, here are my favorite "great unknown movies."	P
+ 
+0036.html	Raising Arizona (1987)	Gary Benson	CAPSULE: Terrific fun, probably destined to become a cult classic. This is the most fun I've had at a movie since BRAZIL. (Before BRAZIL, it was SILVER STREAK). That should tell you something about my orientation, so if you *hated* BRAZIL, you can probably stop reading now and assume you're going to loathe RAISING ARIZONA, too.	P
+ 
+0049.html	Right Hand Man, The (1987)	Jeff Meyer	Various films seen at the Seattle Film Festival: IT'S ALL TRUE/THREE MEN ON A RAFT (U.S.A., 1942/1986) Director: Orson Welles A recently uncovered one-fourth of Orson Welle's planned "docu-drama" of amazing stories around the world named IT'S ALL TRUE, this short dealt with Welle's attempts to document the actions of several Brazilian fisherman in 1942 who had become folk heroes for their fantastic voyage to Rio on a raft.	P
+ 
+0057.html	Personal Foul (1987)	Jeff Meyer	Seen at the Seattle Film Festival: PERSONAL FOUL (USA, 1987) Director/Writer: Ted Lichtenhaeld Cast: David Morse, Adam Arkin, Susan Wheeler Duff, F. William Parker This is a film that I was inclined to like at the outset: the two main characters had been involved with the fine television drama ST. ELSEWHERE for several years, and I had understood that the director/screenwriter had written for the show on occasion also.	P
+ 
+0063.html	Untouchables, The (1987)	Steve Upstill	5) Do you appreciate a script which NEVER makes you wince, and which consistently concocts novel, interesting approaches to pedestrian material and manages to take several surprising turns? 9) Can you tolerate realistic bloodshed in the service of terrific action? 10) Do you respond to a little food for thought subservient to action? If you answered positively to the majority of these questions, have I got a movie for you.	P
+ 
+0070.html	Untouchables, The (1987)	Jeff Meyer	It strikes me as appropriate that THE UNTOUCHABLES comes out approximately ten years after STAR WARS opened, because this film belongs to a tradition that began with George Lucas's classic space opera, the high-charged "Summer Spectacular" (nit-pickers could argue that Spielberg's JAWS began it all, but there was too many lackluster summer seasons between JAWS and the next blockbuster hit, STAR WARS, for me to set the origin at that point).	P
+ 
+0071.html	Predator (1987)	Mark R. Leeper	Capsule review: Arnold Schwarzenegger meets an alien with a cloaking device while on a commando mission in Central America. Action films are pretty common, but the concept of the cloaking device coupled with decent special effects are a boon. When I was growing up and into comics, one kind of comics.	P
+ 
+0077.html	Full Metal Jacket (1987)	Mark R. Leeper	Well, the Vietnam War film seems to be with us at last. While the war went on and for a good while afterward it seemed a taboo subject. People, and in particular film backers, did not want to make films about so downbeat a subject. With the passing of time some of the wounds have healed and we have some gung-ho Vietnam films.	P
+ 
+0079.html	Project X (1987)	Mark R. Leeper	The last time I watched John Badham's film WARGAMES (at least I hope it was the last time!), I counted what I thought were technical errors in the film. I came up with an average of one every 120 seconds. When I read that the scripters of WARGAMES had produced a new film, PROJECT X, my excitement knew very strict bounds.	P
+ 
+0081.html	Ping Pong (1986)	Jeff Meyer	Seen at the Seattle Film Festival: PING PONG (Great Britain, 1986) Director: Po Chih Leong Screenwriter: Jerry Liu Cast: Lucy Sheen, David Yip, Robert Lee, Lam Fund, Victor Kan I'll be darned.... Another 'A' film, to take its place alongside AMAZING GRACE AND CHUCK, MY LIFE AS A DOG, and WEAPONS OF THE SPIRIT.	P
+ 
+0085.html	Predator (1987)	Steve Fritzinger	Arnold Schwarzenegger leads a team of elite mercenaries through a Central American jungle to rescue a captured "Cabinet Minister" from communist-backed rebels. Along the way he deals with a treacherous CIA agent, about a hundred insurgents, and an alien sportsman doing a little trophy hunting. The "plot" of PREDATOR is only a set-up for the long hunt scene that takes up 3/4 of the movie.	P
+ 
+0092.html	Ceddo (1978)	Mark R. Leeper	Capsule review: Micro-epic from Senegal. The film is weak on style, acting, and pacing, but has a really good story. Never released in Senegal, nominally over a disagreement about the spelling of the title, but more likely for anti-Islamic sentiments. Imagine, if you will, a story written for Akira Kurosawa. castles.	P
+ 
+0103.html	My Beautiful Laundrette (1985)	Mark R. Leeper	[This is another retrospective of a film which had limited theatrical release and is just now becoming available on videocassette. Also, the director, Stephen Frears, has just released another film, PRICK UP YOUR EARS. -ecl] Capsule review: A serious plot rife with unexpected twists combines with some nice comic touches to make this film about a Pakistani family a memorable one.	P
+ 
+0105.html	Innerspace (1987)	Mark R. Leeper	Capsule review: FANTASTIC VOYAGE crossed with FOUL PLAY makes for another science fiction comedy cut from the same mold as BACK TO THE FUTURE. INNERSPACE does not always make sense, but it is just about always fun. (Spoiler warning: major elements of the plot are presented first as minor surprise plot twists.	P
+ 
+0106.html	RoboCop (1987)	Steve Fritzinger	The Terminator is back, and this time he's a good guy. In this future the police force is run as a for-profit division of Security Concepts Inc., and an up-and-coming young executive thinks he can eliminate crime and get himself a vice-presidency with his Robocop project. Peter Weller is Alex Murphy, a Detroit cop killed in the line of duty, who has been "recycled" by SCI's labs.	P
+ 
+0107.html	RoboCop (1987)	Mark R. Leeper	Capsule review: Featherweight and violent super-hero comic book on film about a cyborg policeman protecting the streets of Detroit. Paul Verhoeven is one of the last directors I would expect to make this fun but unoriginal action film. The place is Detroit. the time is some undefinable date in the future.	P
+ 
+0118.html	Living Daylights, The (1987)	Craig Good	After the last Bond flick I thought that 007 was dead. The plot had become metastasized with silliness, and Roger Moore was beginning to creak. The rumors about Pierce Brosnan confirmed that the movies were about to descend into terminal foppishness. The long-running series of James Bond adventures were going out with a whimper.	P
+ 
+0121.html	Stakeout (1987)	Mark R. Leeper	There are all kinds of police films coming out this year. The more notable among them are THE UNTOUCHABLES, BEVERLY HILLS COPS II, LETHAL WEAPON, and DRAGNET. The newest addition to the list is John Badham's STAKEOUT. STAKEOUT is unlikely to earn at the boxoffice anything like those four films, yet of the four, only THE UNTOUCHABLES may be a better film.	P
+ 
+0124.html	Living Daylights, The (1987)	Peter Reiher	The bi-annual Bond film has appeared again, and, thankfully, it's a great improvement on the last few. THE LIVING DAYLIGHTS is the best Bond film since FOR YOUR EYES ONLY, and, before that, one would have to go all the way back to the Sean Connery films to find its equal.	P
+ 
+0002.html	Hitcher, The (1986)	Mark R. Leeper	Capsule review: Boring actioner about a psychotic hitchhiker whom the scriptwriter makes unkillable. Contrived, unbelievable, and ultimately dull thriller is one more film to waste Rutger Hauer. Capsule review: Boring actioner about a psychotic hitchhiker whom the scriptwriter makes unkillable. Contrived, unbelievable, and ultimately dull thriller is one more film Hauer.	N
+ 
+0004.html	Angel Heart (1987)	Clark Quinn	Starring: Mickey Rourke, Robert DeNiro, Lisa Bonet, Charlotte Rampling Directed by: Alan Parker Produced by: Alan Marshall and Elliott Kastner Executive Producers: Mario Kassar and Andrew Vajna Screenplay by: Alan Parker From the novel: "Falling Angel" by William Hjortsberg Director of Photography: Michael Seresin I saw this movie at a special pre-release screening here at UCSD.	N
+ 
+0009.html	Lethal Weapon (1987)	Steve Fritzinger	LETHAL WEAPON is a light-weight action thriller that quickly degenerates to an extremely stupid movie. While a detective whose name I don't remember is investigating the murder of a friend's daughter, he and his new partner, Riggs, a suicidal burned-out ex-Vietnam sniper, stumble onto a heroin ring. This movie is so loaded with cliches, ex-CIA men turned to crime, a tough looking guy holding his arm in a flame to prove his loyalty to Fearless Leader, kidnapped daughters, and so on, that there is no room left for any genuine suspense.	N
+ 
+0010.html	Lethal Weapon (1987)	James Kawashima	This is a police thriller in the tradition of 48 HOURS and THE FRENCH CONNECTION. It's taut, well-executed, and not entirely predictable. It comes to us from Richard Donner, of SUPERMAN fame, who is noted for his interest in characterization and making the characters seem real and believable to the audience despite their often superhuman abilities.	N
+ 
+0021.html	Lethal Weapon (1987)	Jeff Meyer	LETHAL WEAPON tends to be one of those marginal, on-the-border films; its qualities and weaknesses are glaring, and tend to cancel one another out. The story, which is nothing special, centers on an aging family-man police detective (Danny Glover) who is saddled with a series of drug-related crimes and a new partner who is rumored to have a death wish (Mel Gibson).	N
+ 
+0026.html	Burglar (1987)	Jeff Meyer	I hate having to echo Siskel & Ebert, but something *has* to be done about getting Whoopi Goldberg some decent scripts. Her latest film, BURGLAR, once again tantalizes us with brief glimpses of potential, but smothers it under ridiculous plotting and inadequate backup from supporting characters. The fact that I left the movie liking Goldberg's character, DESPITE some of the lines/situations that had been fed to her, says what kind of actress she is; she has a lot of charisma.	N
+ 
+0038.html	Creepshow 2 (1987)	E. Stephen Mack	Even though... ...I was born in 1967, I am a big fan of EC Comics-style horror tales of the early 60's. CREEPSHOW and CREEPSHOW II [directed and screenplay by George Romero, based on stories by Stephen King] certainly pay homage to these comics, fondly perpetuating the style and its numerous conventions.	N
+ 
+0043.html	Abel (1986)	Jeff Meyer	Seen at the Seattle Film Festival: ABEL (Netherlands, 1986) Director/Writer: Alex van Warmerdam Cast: Alex van Warmerdam, Henri Garcin, Olga Zuiderhock, Annet Matherbe Subtitled ABEL is that standard staple of films everywhere, the family farce. Here we have a penthouse apartment inhabited by Abel, a 31-year-old eccentric who has never left the house, and likes to try to kill flies with scissors; and his parents, a Valkyrie-like mother, Dove, who indulges her son's behavior, and the strict, parochial father, Victor, who attempts to have them all lead a "normal life"--though his definition of normal is not particularly wide-spread (thank goodness!).	N
+ 
+0047.html	Vergeßt Mozart (1985)	Jeff Meyer	FORGET MOZART is an interesting sideshow--and certainly a different approach--to another movie that recently dealt with the life (and death) of Mozart, AMADEUS. A West German production, FORGET MOZART was shot on the same sets--sometimes during recesses in the AMADEUS schedule--and the rest shot after AMADEUS had finished, but had not yet torn down the sets.	N
+ 
+0060.html	Star Wars (1977)	Mark R. Leeper	This year marks the tenth anniversary of George Lucas's STAR WARS. I think it is fairly safe to say that for the fantasy film genre and for the film industry as a whole, the decade has been very different than might have been expected when Fox was telling theaters that if they wanted to show THE OTHER SIDE OF MIDNIGHT they would also have to book this science fiction film, STAR WARS.	N
+ 
+0075.html	Witches of Eastwick, The (1987)	Martin Maenza	I saw THE WITCHES OF EASTWICK on its opening weekend, and I found it to be a highly interesting movie. I would recommend it to moviegoers--especially those who like their drama with a slight bit of comedy. I would not in the least place this film in a genre of horror films since it is not horror as in FRIDAY THE 13TH (you chose a part) and its like.	N
+ 
+0078.html	Full Metal Jacket (1987)	Craig Good	Stanly Kubrick hasn't made a movie since THE SHINING, making FULL METAL JACKET one of the most anticipated films of the year. It would be a mistake to call it a "me too" follow-up to PLATOON, but comparisons between the two films are going to be unavoidable. What they share in common, along with APOCALYPSE NOW, is the very real sensation that you have just lived through something.	N
+ 
+0080.html	Weapons of the Spirit (1990)	Jeff Meyer	This is not a particularly good world, or a good country, or a good era, for idealists to live in. Cynicism is easily promoted in almost every moral and ethical area involved in our lives: scandals in religion, conflicts of interests in politics, general apathy in dealing with what once were national ideals.	N
+ 
+0088.html	Trancers (1985)	Jeff Meyer	TRANCERS (USA, 1982) Director: Charles Band Screenwriters: Danny Bilson, Paul de Meo Cast: Tim Thomerson, Helen Hunt, Michael Stefani, Art La Fleur This film is probably familiar to those of you who have righteous cable service, but to those of us who don't, it's a mystery. It was made before BLADERUNNER or THE TERMINATOR, but it has elements of both.	N
+ 
+0089.html	Jean de Florette (1986)	Jeff Meyer	Seen at the Seattle Film Festival: JEAN de FLORETTE (French, 1986) Director: Claude Berri Screenwriters: Claude Berri, Gerard Brach; based on a novel by Marcel Pagnol Cast: Yves Montand, Gerard Depardieu, Daniel Auteuil, Elisabeth Depardieu Subtitled This is the first half of what is being described as a "French Epic"; it is an adaptation of a fairly well-known French novel about the efforts of two bachelor farmers, an older man and his rat-faced nephew, who covet the spring on the land of their neighbor.	N
+ 
+0101.html	Innerspace (1987)	Steve Fritzinger	INNERSPACE retells the FANTASTIC VOYAGE story, this time going for, and getting, laughs. Dennis Quaid plays Tuck Pendelton, a washed-up fighter pilot with an ego the size of a truck. He is to man the first miniaturized exploration of a living animal. When the experiment is interrupted by industrial spies, Pendelton is accidentally injected into the rear end of Jack Putter, a Safeway clerk played by Martin Short.	N
+ 
+0102.html	Dragnet (1987)	Mark R. Leeper	Capsule review: Parody of successful summertime action movies with Dan Aykroyd doing impressions of Jack Webb. It is unclear how Aykroyd found out how Webb talks as he has apparently never seen an episode of DRAGNET. Dan Aykroyd grew up in the 50s and 60s; later in improvisational comedy he time.	N
+ 
+0108.html	RoboCop (1987)	Craig Good	Yo! What a summer we're having! If you can't find a movie to jazz you this year then you were weaned on a pickle. And just when I though 1987 had peaked, enter ROBOCOP. Remember how STAR WARS combined a lot of things you had seen before into something you'd never seen before? This is like that in several ways.	N
+ 
+0109.html	Straight to Hell (1987)	Steve Fritzinger	In STRAIGHT TO HELL, three inept hitmen/bankrobbers and their moll spend four days hiding out south of the border. Which border is never really clear, but they have defiantly crossed into a weird place. On the lam in a town run by Irish bandits, they drink a lot of coffee, beat up a hot dog vendor, and spend a lot of time talking about, but never actually having, sex.	N
+ 
+0113.html	RoboCop (1987)	Dale L. Skran, Jr.	Let us cross pens. Mark and I have a number of long-running debates, including one on the value of movies like DREAMSCAPE, TERMINATOR, and ROBOCOP, and another on the adaptability of super-hero comics to film. If I may be somewhat cavalier, Mark tends to feel these films are unexceptional, while I feel they serve the special purpose of bringing standard SF ideas to a movie audience generally unfamiliar with them.	N
+ 
+0018.html	Raising Arizona (1987)	Peter Reiher	I was a big fan of Joel and Ethan Coen's first film, "Blood Simple." I'm not sure if it's accurate to say that their new film, "Raising Arizona," is precisely a disappointment, but it certainly isn't at all what I expected, and I didn't really like it. "Raising Arizona" is such a peculiar movie that I find it difficult to analyze my own feelings about it.	NA
+ 
+0028.html	Lily Tomlin (1986)	Billy Green	First of all, I wish to separate myself from "Enquiring Minds Want To Know" critics who went to this film hoping to see rumors come to life on the screen. I refuse to say things like, "What this film is *really* about is what the film will not show us, and about what Lily didn't want the filmmakers to reveal."	NA
+ 
+
+ Query-> exit
+ 
