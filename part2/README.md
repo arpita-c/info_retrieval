@@ -1,11 +1,6 @@
 
 Run the following command 
-------------------------------
------------------------------------------------------------
-ssh to specific remote machine(as I have tested over here)
-----------------------------------------------------------
-ssh <username>@remote06.cs.binghamton.edu
-
+----------------------------
 ---------------------------------------------------------------- 
 Package to install(before executing the python script):: 
 ---------------------------------------------------------------
